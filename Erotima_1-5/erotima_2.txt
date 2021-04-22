@@ -1,0 +1,5 @@
+Other tables needed: 
+AssignmentperCourseperStudent
+Assignments_Courses
+Students_Courses
+Trainers_Courses
